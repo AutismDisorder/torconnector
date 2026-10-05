@@ -33,3 +33,6 @@ Commands:
   rvmac      - revert mac addresses of all interfaces
   version    - print version of torctl and exit
 ```
+
+Original:
+https://github.com/BlackArch/torctl
