@@ -14,6 +14,7 @@ sudo xbps-install -S macchanger # for Void Linux
 $ torctl
 --==[ torconnector by AutismDisorder ]==--
 
+```bash
 Usage: torconnector COMMAND
 
 A script to redirect all traffic through tor network
@@ -30,3 +31,4 @@ Commands:
   chngmac    - change mac addresses of all interfaces
   rvmac      - revert mac addresses of all interfaces
   version    - print version of torctl and exit
+```
