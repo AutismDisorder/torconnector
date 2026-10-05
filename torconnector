@@ -88,7 +88,7 @@ info() {
 }
 
 banner() {
-    echo -e "${REDB}--==[ torctl.sh by blackarch.org ]==--${RESET}\n"
+    echo -e "${REDB}--==[ torconnector by AutismDisorder ]==--${RESET}\n"
 }
 
 version() {
@@ -559,7 +559,7 @@ status() {
 
 
 usage() {
-    echo -e "Usage: torctl.sh COMMAND\n"
+    echo -e "Usage: torconnector COMMAND\n"
     echo -e "A script to redirect all traffic through tor network\n"
     echo -e "Commands:"
     echo -e "  start      - start tor and redirect all traffic through tor"
