@@ -8,7 +8,7 @@ git clone https://github.com/AutismDisorder/torconnector /usr/local/bin
 Simple as that. If you intend to spoof you mac address, then install maccahnger.
 
 ```bash
-sudo xbps-install -S macchanger # for Arch Linux  
+sudo xbps-install -S macchanger # for Void Linux  
 ```
 
 ```bash
