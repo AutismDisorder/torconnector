@@ -11,10 +11,11 @@ Simple as that. If you intend to spoof you mac address, then install maccahnger.
 sudo xbps-install -S macchanger # for Void Linux  
 ```
 
+```bash
+
 $ torctl
 --==[ torconnector by AutismDisorder ]==--
 
-```bash
 Usage: torconnector COMMAND
 
 A script to redirect all traffic through tor network
