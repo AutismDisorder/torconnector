@@ -2,7 +2,8 @@
 
 # Installation
 ```bash
-git clone https://github.com/AutismDisorder/torconnector /usr/local/bin
+git clone https://github.com/AutismDisorder/torconnector /tmp/torconnector
+sudo mv /tmp/torconnector/torconnector /usr/local/bin
 ```
 
 Simple as that. If you intend to spoof you mac address, then install maccahnger.
