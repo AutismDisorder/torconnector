@@ -10,7 +10,3 @@ Simple as that. If you intend to spoof you mac address, then install maccahnger.
 ```bash
 sudo xbps-install -S macchanger # for Void Linux  
 ```
-
-```bash
-sudo pacman -S macchanger # for Arch Linux
-```
